@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 14 and why they'll be important to you as a data scientist.
+This lesson summarizes the topics we'll be covering in section 27 and why they'll be important to you as a data scientist.
 
 ## Objectives
 You will be able to:
@@ -25,7 +25,7 @@ We then learn about the chain rule - a key tool used for calculating derivatives
 
 ### Gradient Descent
 
-Now that we know how to calculate the slope of a curve - and, by extention, to find a local  minima (low point) or maxima (high point) where the curve is flat (the slope of the curve is zero), we'll look at the idea of a gradient descent to step from some random point on a cost curve to find the local optima to solve for a given linear equation. We'll also look at how best to select the step sizes for descending the cost function, and how to use partial derivatives to optimize both slope and offset to more effectively solve a linear regression using gradient descent.
+Now that we know how to calculate the slope of a curve - and, by extension, to find a local minima (low point) or maxima (high point) where the curve is flat (the slope of the curve is zero), we'll look at the idea of a gradient descent to step from some random point on a cost curve to find the local optima to solve for a given linear equation. We'll also look at how best to select the step sizes for descending the cost function, and how to use partial derivatives to optimize both slope and offset to more effectively solve a linear regression using gradient descent.
 
 
 ## Summary
