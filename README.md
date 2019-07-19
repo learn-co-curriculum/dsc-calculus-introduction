@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 27 and why they'll be important to you as a data scientist.
+In this section, you'll learn about the mechanism behind many machine learning optimization algorithms: gradient descent!
 
 ## Objectives
 You will be able to:
@@ -10,8 +10,6 @@ You will be able to:
 * Understand and explain why the section will help you to become a data scientist
 
 ## Calculus and Solving a Linear Regression Using Gradient Descent
-
-In the last section, we looked at how to use linear algebra to solve a linear regression using OLS. However, towards the end of the section we discovered the computational inefficiency of an OLS approach as your number of features grows.
 
 In this section, we're going to see how you can apply a "gradient descent" to solve a linear regression. Along the way we'll also look at cost functions and will provide a foundation in calculus that will be valuable to you throughout your career as a data scientist.
 
