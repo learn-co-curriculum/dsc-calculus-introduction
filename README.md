@@ -11,7 +11,7 @@ You will be able to:
 
 ## Calculus and Solving a Linear Regression Using Gradient Descent
 
-In this section, we're going to see how you can apply a "gradient descent" to solve a linear regression. Along the way we'll also look at cost functions and will provide a foundation in calculus that will be valuable to you throughout your career as a data scientist.
+In this section, we're going to see how you can apply a "gradient descent" to solve a linear regression. Along the way, we'll also look at cost functions and will provide a foundation in calculus that will be valuable to you throughout your career as a data scientist.
 
 ### An Introduction to Derivatives
 
