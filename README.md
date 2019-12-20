@@ -4,11 +4,6 @@
 ## Introduction
 In this section, you'll learn about the mechanism behind many machine learning optimization algorithms: gradient descent!
 
-## Objectives
-You will be able to:
-* Understand and explain what is covered in this section
-* Understand and explain why the section will help you to become a data scientist
-
 ## Calculus and Solving a Linear Regression Using Gradient Descent
 
 In this section, we're going to see how you can apply a "gradient descent" to solve a linear regression. Along the way, we'll also look at cost functions and will provide a foundation in calculus that will be valuable to you throughout your career as a data scientist.
@@ -17,9 +12,6 @@ In this section, we're going to see how you can apply a "gradient descent" to so
 
 We're going to start off by introducing derivatives - the "instantaneous rate of change of a function" or (more graphically) the "slope of a curve". We'll start off by looking at how to calculate the slope of a curve for a straight line, and then we'll explore how to calculate the rate of change for more complex (non-linear) functions.
 
-### The Chain Rule
-
-We then learn about the chain rule - a key tool used for calculating derivatives for the more complicated functions we'll encounter in machine learning.
 
 ### Gradient Descent
 
